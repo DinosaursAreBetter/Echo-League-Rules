@@ -78,7 +78,7 @@
 2. Teams can only have a maximum of seven members on the roster at any one time. However, a team must have at least five active members on the roster at all times
     1. You have until end of each week (Sunday @ 11:59 PM PDT) to fulfil the minimum roster requirements
         1. In cases where a team member leaves within two days of the end-of-week, there were will be a grace period of two extra days to find a replacement player.
-3. Teams are expected to play all series assigned to them in EchoLeague Season 1.  If a Team misses two series, they will be disbanded and all players will be moved to “free-agent” status
+3. Teams are expected to play all series assigned to them in EchoLeague.  If a Team misses two series, they will be disbanded and all players will be moved to “free-agent” status
 4. A roster must consist of the following:
     1. One (1) ‘Team Organizer’: An official contact for your team on both Steam and Discord.  Team organizers are responsible for communicating with administration and scheduling matches on behalf of their team.
     2. Four (4) – Six (6) ‘Team Members’: Any official league-registered player that is registered to your roster.  Team Members can also be in-game captains, drafters, etc. Team members are NOT responsible for scheduling games, but can be promoted to a ‘Team Organizer’ role if their current ‘Team Organizer’ steps down, or is unavailable.
@@ -181,7 +181,7 @@
 
 ## VII Scheduling
 
-1. Every week in *Echo League Season 1* begins on Monday at 12:00 AM PDT and ends on Sunday at 11:59 PM PDT
+1. Every week in *Echo League* begins on Monday at 12:00 AM PDT and ends on Sunday at 11:59 PM PDT
 2. All games for the upcoming week must be scheduled by the end of the previous week
     1. During groups, you must schedule with your "suggested opponent" by the end of your "suggested week".  You and that opponent are free to play outside that week (earlier or later), as long as it is before the end of group stages, if **both teams** agree, otherwise you should play on your suggested week to avoid conflict
     2. For playoffs, if there are extenuating circumstances preventing teams from playing during their assigned week, they can reach out to the Staff to try and arrange an off-schedule game.  These will only be allowed when there are no other options, when it will not impact future games, and when the staff has been given enough notice to arrange an alternative solution.
